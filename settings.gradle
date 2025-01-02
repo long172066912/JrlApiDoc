@@ -1,0 +1,4 @@
+//
+rootProject.name = 'jrl-doc-gradle-plugin'
+
+include ':plugin:plugin-gradle'
