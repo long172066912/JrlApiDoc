@@ -1,5 +1,4 @@
 .gradle
-gradle
 .idea
 *.iml
 build
@@ -21,3 +20,7 @@ deploy/*
 */.project
 */.settings/
 */bin/
+*/log_config
+*/loggerRoot_IS_UNDEFINED
+log_config
+loggerRoot_IS_UNDEFINED
